@@ -83,6 +83,3 @@ quickserve/
 └── package.json
 ```
 
-## License
-
-MIT
